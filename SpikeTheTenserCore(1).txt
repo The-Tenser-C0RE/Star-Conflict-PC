@@ -1,0 +1,379 @@
+Ship Build: “TheTenserCore”
+—
+
+Name: "TheTenserCore"
+Ship: Spike, Rank 17, Federation, 'Cov Ops' Class
+By: Spirin1224 (TheTenserC0RE)
+
+
+—< General Overview >—
+Built to do high damage over prolonged periods of time, and being able to give a periodic offensive strikes and provide self regeneration to ensure its continued presence in the field.
+
+"TheTenserCore" represents a truly veritable, adaptable/adaptive Commando.
+
+—the point—
+TenserCore is made to be:
+1. self-sufficient
+2. Sustain moderately high firepower over a sustained, prolonged period of time
+3. Push-power (do very high damage over medium time, reliable), or rather, focus power on a specific target periodically (like against a guard or high lvl player)
+4. Work good alone, work good with a team.
+—/the point—
+
+—< /General Overview >—
+
+
+—< Build Features >—
+Damage-
+Running damage is at 4k to boot! (3202 regular dps *25% weapon boost)
+P-OTC and a offensive set of modules enable this thing to deal sustainable high damage and focus extremely high damage on specific periodically.
+
+Speed-
+This build focuses on mid-range to close-range combat. Too fast and you can’t maintain most efficient distance, too slow, and might as well be in a fighter.
+
+Energy-
+Leak Stabilizer and Voltage Regulator gives Spike the optimal energy regeneration needed to throttle afterburner, and provide a reservoir of energy for engagements.
+
+Strength/Shield_Hull-
+Has 6k shield and 4k hull with no negative shield resistance, and a crew implant plus ‘Shield Booster’ give the shield more than adequate regeneration.
+And with its modules it allows it to peridically boost shield resistance.
+
+Advantages-(misc.)
+Low(er)/buffed module reload/cool-downs
+Slowing under 50% speed increases shield regeneration (Crew Implant)
+/^ perfect because hull regenerates also.
+—< /Build Features >—
+
+
+—< Build Advanced Tactical Configurations >—
+Switch-back (flip-flop):  —Damage/Range— 
+Curved Reflector -- Horizon Module(LvL2), Crew 2:B "...maximum and optimal weapon range by 20%"
+Total Range (-123m). I will gain 22% more damage.
+I can easily replace ammo for extra+ range.
+
+Switch-back (flip-flop):  —Overheating_Weapon—
+Instead of 'High-Frequency Oscillator' (which would negate previous flip-flop), I use Shared Cooler instead.
+At LvL1 'Shared Cooler' is more effective than 'HFO' ammo to boot! (28.9% vs 25.9%), at BASE LEVEL
+
+Switch-back (flip-flop): —Shield—
+Instead of adaptive shields, I opted for higher shield volume (since per hit would be consistently better than a tad more shield resistance), and added crew modifier for shield resistance, and used the other crew implant to improve shield regeneration.
+Much more efficient, and works tighter with play-style.
+I use Energy Converter to buff resistance primarily in offensive engagement strikes. (or whenever applicable)
+
+Switch-back (flip-flop): —Maneuverability—
+Used crew modifier for strafe. Collision Compensator to achieve higher maneuverability.
+
+
+==Numerical Advantages
+
+Total Damage of Special Module 'Plasma Shackles' (at max #3)
+(346+75%)*12 = 7307 total damage (assured)
+
+Pirate vs Non Pirate "Orion Targeting Complex"
+P-OTC — (3202x1.77(+77%)*10 = 56670
+OTC — (3202x2.08(+108%)*5 = 33300
+56670/33300=1.7
+=70% more effective than standard "Orion Targeting Complex".
+—-/
+-end build advantages-
+
+
+—< Active Modules >—
+1. Pirate Orion Targeting Complex
+“Boosts damage by 77% for 10 seconds”
+2. Energy Converter
+Increases shield resistance to damage, redirects all damage to targeted beam.
+3. Energy Trap Mine
+Takes energy from all enemies in range, and then explodes; dealing damage to all enemies in range with gathered energy.
+4. Shield Booster
+Restores sheild
+—< /Active Modules >—
+
+
+—< Active Module Tactical Analysis >—
+—Pirate Orion targeting Complex
+—
+P-OTC has more total dps than the regular OTC, with similar cooldown.
+As such, is more adaptable, efficient, and works better with the build concept of dealing prolonged levels of high damage.
+
+—Energy Converter
+—
+A perfect module for this build, both for its internal stat network and balance, and also for its offensive/defensive uses.
+
+Defense—
+Takes advantage of the builds high energy levels, and high shield count,
+
+Offense—
+Allows the ship to double or triple its already high damage, while charging/rushing a enemy who has unleashed its full arsenal, and to come out alive...
+Making the Energy Converter useful, powerful, veritable, tenacious, efficient, and effective.
+
+
+—Energy Burning Mine
+—
+Burns nearby enemy energy then explodes converting siphoned enemy energy to damage.
+The more enemies, the more damage it does, which is the mark of a true crowd-control weapon.
+
+Low reload time
+
+Damage—
+Deals decent damage, scales with enemies affected by it.
+(Over 4=good punch, over 6=‘gonna leave a mark’, 8=infinitepower)
+
+(A player made a video of destroying around 15+ strong enemy AI craft, with one single use. Clearing the map.)
+
+Specific Uses—
+-Large groups, Afterburner Denial, Distraction, Disorientating Aircraft, Module Denial, AOE Damage.
+Useful in PVE, camp AI spawn area.
+
+
+—Shield Booster
+—
+Primarily designated for use with Energy Converter in engagements, it allows the ship to ‘flow tank’ a very high amount of damage.
+It takes advantage of the ships large shield volume, which with EC becomes quite strong. With Shield Booster buffering the shield as it takes damage you can thus ‘flow tank’ much more damage./ (when it matters most/in a direct engagement???)
+
+Due to it’s low reload timer, you could conventionally use it twice, restoring shields after the engagement or en-route to another area.
+-
+—< /Module Overview/Operations/Tactics >—
+
+
+—< Flight/Orbit Patterns/Maneuvers >—
+Because of the enhanced maneuverability of the Spike, acheiving a working flight pattern that will keep both weapons on target, without missing or crashing into target, while maintaining afterburner is quite difficult to maintain.
+
+As such,
+I have formed next-level pro flying maneuvers, built specifically for TheTenserC0RE, designed to have variable distance, gun stability, control, accuracy, and evasiveness.
+
+Cone Arc—
+How:
+Aim at target
+Hold Afterburner button/key
+Strafe in a corner direction (vertically and horizontally at same time)
+IE: (‘s’ and ‘ctrl’) or (‘d’ and ‘shift’)
+
+Roll, either left or right. (clockwise or counter clockwise)
+-
+You will end up spinning in a circle facing/following the target.
+These specifc keys have your ship facing into the spiral, allowing that spot to be accessible by weapons throughout the entire arc.
+
+You can reduce speed to 0, go backwards, or throttle forwards to maintain most effective distance from target.
+And due to the nature of this maneuver, you keep your 25% extra damage the entire time (provided it is done correctly)
+-
+The Science:
+Strafing in 2 directions at the same time actually counts toward afterburner damage buff.
+-
+Rolling simply allows to stay in a controlled area and better control the overall orbit pattern.
+—
+
+Strafe Track/Lead-
+Strafe in the direction a target to help you to train weapons/focus on the target as it foies by or is moving at apeed where this is more applicable than a Cone Arc.
+-
+
+Strafe Orbit—
+Simply fly around a target, doing a normal orbit using strafe keys to adjust the orbit arc.
+—
+
+Full Corner Spiral-
+Put object in either top corner of screen, and orbit from there, holding CTRL (down key) and the corresponding strafe key, opposite of the corner direction (A or D)
+
+you will be orbiting the entire object.
+
+Using both Strafe AND Ctrl allows you to acheive and sustain higher orbit diameter, which is helpful in orniting a large target. strafing in 2x directions, rolling to 'miss' the target (useful for long targets such as cargo ships), allowing you to direct the strafe corner direction to pass or 'miss' the long side of the ship while still training weapons on it
+—
+
+Strafe Acceleration-
+Aim at a angle downwards (preferred) and hold down the up strafe key,
+you combine the strafe speed to regular speed to achieve higher net travel speed.
+
+(will have to test) 
+—
+—< \Flight/Orbit Patterns/Maneuvers >—
+
+
+—< Superior Tactics >—
+
+1. Engage Smartly
+Destroy weaker/convenient target first, whichever is quicker.
+Thus mitigating amount of total damage done to you, since active time of both enemies hitting you is lower.
+
+2. Activate Modules Smartly
+You don’t have to use EC+SHB on a target that doesn’t need it.
+Knowing when a target is weak enough to skip activating modules will put you in still a rather fresh position for when you need it.
+Apply this to ‘#1 Engage Smartly’ when dealing with more than one target.
+
+3. EBM AOE
+Can save your life with cloaked enemies and fast targets, don’t forget it.
+
+4. Special Module
+Due to crew implants, this module has a comparatively low cool-down.
+And remember that when fully charged, it deals a guaranteed ~6k damage.
+Use on interceptors, and don’t spare it. (It does regenerate)
+
+5. Take time to repair yourself.
+Let hull regen and crew implant get you up to speed.
+
+/Know when to disappear/regenerate/
+One major flaw in this ships design, or rather, a design weak-point, is it’s overall survivability. This ship is not made to take damage for very long and is designed to mainly deal damage to one target at a time.
+
+If you are low after a direct engagement, go to some good cover. And sit.
+You are giving yourself the difference between a kill, or total failure, since dying undoes any progress you make (conventionally).
+
+Sit, let the crew implant restore shields and hull regeneration patch you up.
+Re-engage.
+
+—</ Superior Tactics >—
+
+
+—< Basic Playstyle Description >—
+“I can go in, deal enormous damage(70% POTC), crowd-control by Energy Burning Mine, followed by Nuke, followed by my already buffed weapons (and if cool-down has already reset) buffed another 70% damage (weapons).
+
+And come out alive. Get to allies.
+20 second cool-down for modules and for hull/shields.
+And go in-and do it again!”
+—TTC0RE
+-
+
+Does constant high damage and is effective vs a large variety of targets.
+
+—< Basic Playstyle Description >—
+
+
+—< Engagement Protocols >—
+The following are engagement protocols or procedures as part of ‘TheTenserC0RE’ build/(play-style).
+These are designed specifically for this build and are a good base for basic engagement
+
+To-Note:
+None of these are designed to replace basic tactical use of the space-craft.
+You can (of-course) use POTC whenever it is effective, and with/without any specific maneuvers of any sort.
+These are just specific ‘examples’, or truthfully protocols that take distinct and specific advantage of the build/play style that is (as a suite) ‘TheTenserC0RE’.
+/To-Note
+
+
+--< Direct Engagement (Synapses Strike) >--
+TheTenserC0RE uses specific modules to acheive the edge of high damage, and damage resistance/active strength.
+
+The following are concurrent steps in TTC0REs designated (effective) engagement strike. (Read all the way through. Phase# is for timing purposes and are (obviously) concurrent/happen at same time)
+
+—Weapon and Module Activation
+Phase 0: Engage target, firing when in range.
+Phase 1: Target is engaged (weapon is in range)
+Phase 2: When contact at 1000m (and when effective) Pirate OTC.
+Phase 3/: When enemy retaliates activate Energy Converter and Shield booster (near/same time).
+
+—Aircraft Maneuvering
+Phase 0: Afterburner speed
+Phase 1: Strafe into a corner (best is a lower corner) (strafe left and down, right down, left up, right up)
+Phase 2: Go into Cone Arc
+Phase 3/: Slow a bit perhaps to let enemy hit you better
+-
+--< /Direct Engagement (Synapses Strike) >--
+
+
+
+—< General Play-style Operations Overview >—
+
+1. Team Leader Commando
+Stick near team and destory nearby targets, preferably fighters, frigates, and interceptors. Prioritze high-armored or dangerous foes to use 'push-power', ("Pirate Orion Targeting Complex").
+
+2. Commando Strike
+Strikes in enemy territory (depending on build), and driving a splinter through enemy team.
+
+3. Commando Ownership
+Beacon ownership (until team arrives with reinforcements or until threat is deterred)
+
+Crowd Control-
+"Energy Burning Mine", offers a high and reliable level of crowd control, as does other Cov Ops modules, allowing it to stay effective in more situations, and allow it to be a team player.
+Tactical Nuke
+
+Single Target-
+Boasting superbly boosted weapons, and a configuration designed to run full-throttle, standard.
+Using a simple 'push-power' system, (Pirate Orion Targeting Complex), you can do 70% more damage for 10 seconds, useful for taking down a tough enemy/target, and useful to spread out among several targets, while having a short cooldown.
+
+—< /General Play-style Operations Overview >—
+
+< Team Commando >
+Warp-in, get close to front of team.
+Stay near cover as you quickly survey the battlefield.
+Pick a target, or a area that your allies are covering or engaging with the opposing team.
+Pick target, setup what you want to do.
+
+You can do the same split w/ Orion and Converter to attack mutliple targets at the same time.
+
+Engage.
+Get right in, float around 1000m around enemies, using weapons on a target and using your crowd control modules to deal damage.
+
+If there is a high priority target,
+1. High level player
+2. Power player/ship (causing a lot of damage)
+3. Weak ship
+
+Use strafing and other maneuvers to dodge fire (if possible)
+If you have picked target, start cycling your push-power modules.
+
+Deal incredible damage, use Converter to maximize incoming damage and strengthen yourself.
+
+Continue to use EBM as it reloads, getting in a position to affect as many opponents as possible (as is in the area of engagement)
+
+Or regen as you move to next location
+
+Repeat!
+
+< /Team Commando >
+
+
+< Commando Strike >
+Look for lone targets (in order), preferably frigates, some fighter class, and/or weak interceptors.
+
+Usually go through ally cover.
+Approach using a measure of stealth (flank, use cover, etc..)
+
+Strike how you would like, or use Synapses-Strike (or a close variation)
+
+Finish target (if convenient or applicable)
+
+The longer you stay in enemy lines, the less your chance for survival.
+So.
+Either get back to team either by sprinting or using cover.
+Or stay in cover to quickly redeploy on another convenient target.
+
+Word of caution:
+Don’t linger in enemy territory. Remember this build’s weakness is it’s (relatively short) cool-downs, and of-course, being swarmed.
+
+If no convenient target, and no upcoming one, retreat directly to allied territory.
+
+< /Commando Strike >
+
+
+3. Bombing Runs
+Simple, nuke beacons to A. Stop captures, and B. Prevent captures.
+Anti-intie stuff, etc...
+—/
+
+
+—< Summary >—
+TheTenserC0RE represents perhaps the highest, most definitve, apex form of the Spike.
+
+Boasting extremely high and consistent damage, excellent survivability, and superb efficiency, this build enlives what the Apex Commando truly looks like.
+
+May this be a testament to highly efficient skill, and refined, fitted, tactical superiority; and may it shine as it fights on!
+
+—TTC0RE
+
+
+—
+—
+—
+
+End Notes.
+
+—Build Analysis and Tactical Decisions—
+
+Shield: Size vs. Resistance
+
+Making the buffed shield volume have its extra shield resistance.
+Having 1.7x as much shield with comparable resistances is much better than simply 1x with base shield (high) resistance.
+This also allows for it to be useful/adaptible, making the usage more efficient.
+Not compromising efficiency to run adaptive shields all the time when it may only be useful 40% of the time, or 80%, just not 100%
+Using Energy Converter as the same function of Adaptive Sheilds, (which is badically enhanced sheild reistance) increases efficiency.
+Considering the user can choose when to have the higher resistance, instead of it all the time.
+(90% resist all the time, vs. 120% resist the times when you need it/want it)
++much higher sheild volume
+
+And this, of course, is just the internal-stat (or defensive) portion of the ship relating to its mathemtical structure of the shields.
